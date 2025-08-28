@@ -1,0 +1,36 @@
+/* Header Title */
+.header-title h1 {
+    margin: 0;
+    padding: 0.5em 0;
+}
+
+/* Navbar Styles */
+.navbar {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    padding: 0;
+    margin: 0;
+    background: #e0e0e044;
+    border-bottom: 1px solid #ccc;
+}
+.navbar li a {
+    text-decoration: none;
+    color: #333;
+    padding: 0.5em 1em;
+    transition: background 0.2s;
+}
+.navbar li a:hover {
+    background: #ccc;
+}
+
+/* Footer Styles */
+.footer {
+    margin-top: 2em;
+    padding: 1em 0;
+    background: #f0f0f0;
+    text-align: center;
+    color: #555;
+    font-size: 0.95em;
+    border-top: 1px solid #ccc;
+}
