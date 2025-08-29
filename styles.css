@@ -14,14 +14,20 @@
     background: #e0e0e044;
     border-bottom: 1px solid #ccc;
 }
+
 .navbar li a {
     text-decoration: none;
     color: #333;
     padding: 0.5em 1em;
     transition: background 0.2s;
 }
+
 .navbar li a:hover {
     background: #ccc;
+}
+
+.active {
+    background: #6d6a6a;
 }
 
 /* Footer Styles */
@@ -34,4 +40,5 @@
     font-size: 0.95em;
     border-top: 1px solid #ccc;
     background-size: contain;
+    height: 200px;
 }
