@@ -28,7 +28,7 @@
 .footer {
     margin-top: 2em;
     padding: 1em 0;
-    background: #f0f0f0;
+    background-image: url('images/last-cat.png');
     text-align: center;
     color: #555;
     font-size: 0.95em;
