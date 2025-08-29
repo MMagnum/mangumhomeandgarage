@@ -33,4 +33,5 @@
     color: #555;
     font-size: 0.95em;
     border-top: 1px solid #ccc;
+    background-size: contain;
 }
