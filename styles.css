@@ -1,3 +1,18 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: sans-serif;
+    
+}
+
 /* Header Title */
 .header-title h1 {
     margin: 0;
